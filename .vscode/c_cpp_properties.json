@@ -6,7 +6,7 @@
         },
         {
             "name": "Linux",
-            "includePath": ["/usr/include/c++", "/usr/include/GL"]
+            "includePath": ["/usr/include/c++", "/usr/include/GL", "/usr/include/SDL2"]
         },
         {
             "name": "Win32",
